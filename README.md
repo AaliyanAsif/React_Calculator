@@ -9,7 +9,7 @@ This is a basic calculator built using react, the calculator can perform basic o
 
 Here is a live site for the project for you to try out!
 
-- 
+- https://aaliyanasif.github.io/React_Calculator/
 
 Use State hook is primarly used to handle the states. 
 
